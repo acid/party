@@ -999,7 +999,7 @@
         {
          "columns":8,
          "firstgid":321,
-         "image":"..\/..\/..\/Downloads\/Pipoya RPG Tileset 32x32\/SampleMap\/[Base]BaseChip_pipo.png",
+         "image":"[Base]BaseChip_pipo.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -1012,7 +1012,7 @@
         {
          "columns":14,
          "firstgid":1385,
-         "image":"..\/..\/..\/Downloads\/Sofas.png",
+         "image":"Sofas.png",
          "imageheight":768,
          "imagewidth":462,
          "margin":0,
