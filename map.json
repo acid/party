@@ -250,7 +250,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/github.io\/party\/stars.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/acid.github.io\/party\/stars.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -268,7 +268,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/github.io\/party\/stars.json#start_tendril"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/acid.github.io\/party\/stars.json#start_tendril"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -286,7 +286,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/github.io\/party\/stars.json#start_ladder"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/acid.github.io\/party\/stars.json#start_ladder"
                 }],
          "type":"tilelayer",
          "visible":true,
