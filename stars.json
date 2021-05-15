@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map.json#start_tendril"
+                 "value":"https:\/\/github.io\/party\/map.json#start_tendril"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -91,7 +91,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map.json#start_tendril"
+                 "value":"https:\/\/github.io\/party\/map.json#start_ladder"
                 }],
          "type":"tilelayer",
          "visible":true,
