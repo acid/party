@@ -419,8 +419,8 @@
         {
          "columns":8,
          "firstgid":65,
-         "image":"[Base]BaseChip_pipo.png",
-         "imageheight":4256,
+         "image":"[Base]BaseChip_pipo_V3.png",
+         "imageheight":3808,
          "imagewidth":256,
          "margin":0,
          "name":"[Base]BaseChip_pipo",
