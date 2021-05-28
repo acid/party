@@ -406,9 +406,31 @@
          "width":63,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":29,
+         "name":"popup",
+         "objects":[
+                {
+                 "height":189.230769230769,
+                 "id":1,
+                 "name":"intro",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":175.384615384615,
+                 "x":364.615384615385,
+                 "y":873.846153846154
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":29,
- "nextobjectid":1,
+ "nextlayerid":30,
+ "nextobjectid":2,
  "orientation":"orthogonal",
  "properties":[
         {
